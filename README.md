@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">I am junior web programmer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=preview&label=Profile%20views&color=0e75b6&style=flat" alt="preview" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pileroid&label=Profile%20views&color=0e75b6&style=flat" alt="preview" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preview" alt="preview" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pileroid" alt="preview" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
@@ -24,7 +24,7 @@
 <a href="https://django.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/django-original.svg" alt="django" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sati-prog&show_icons=true&locale=en" alt="sati-prog" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pileroid&show_icons=true&locale=en" alt="sati-prog" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sati-prog&show_icons=true&locale=en" alt="sati-prog" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pileroid&show_icons=true&locale=en" alt="sati-prog" /></p>
 
