@@ -26,5 +26,5 @@
 <a target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/gulp-1-282455.png" alt="sass" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pileroid&show_icons=true&locale=en" alt="pileroid" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pileroid&show_icons=true&locale=en" alt="pileroid" /></p>
 
