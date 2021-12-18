@@ -28,5 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pileroid&show_icons=true&locale=en" alt="sati-prog" /></p>
 
-<p>&nbsp;<img align="right" src=github-readme-stats.vercel.app/api?username=pileroid&show_icons=true&locale=en" alt="sati-prog" /></p>
+<p>&nbsp;<img align="right" src=github-readme-stats.vercel.app/api?username_pileroid&show_icons_true&locale=en" alt="pileroid" /></p>
 
