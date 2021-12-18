@@ -23,10 +23,10 @@
 <a href="https://python.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="sass" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" alt="sass" width="40" height="40"/> </a>
 <a target="_blank"> <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="sass" width="40" height="40"/> </a>
-<a target="_blank"> <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="sass" width="40" height="40"/> </a>
+<a target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/gulp-1-282455.png" alt="sass" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pileroid&show_icons=true&locale=en" alt="sati-prog" /></p>
 
-<p>&nbsp;<img align="right" src="https://cdn.iconscout.com/icon/free/png-256/gulp-1-282455.png" alt="sati-prog" /></p>
+<p>&nbsp;<img align="right" src=github-readme-stats.vercel.app/api?username=pileroid&show_icons=true&locale=en" alt="sati-prog" /></p>
 
