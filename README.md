@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pileroid" alt="pileroid" /></a> </p>
 
-- 🌱 I’m currently learning **Angular and Vue.js frameworks**
-
 - 👨‍💻 All of my projects are available at [https://github.com/PileroiD](https://github.com/PileroiD)
 
 - 📫 How to reach me **pileroid@gmail.com**
